@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Java Fundamentals</title>
+        <author>John Doe</author>
+        <year>2020</year>
+    </book>
+    <book>
+        <title>XML Basics</title>
+        <author>Jane Doe</author>
+        <year>2018</year>
+    </book>
+    <book>
+        <title>ABC Basics</title>
+        <author>Bill Clinton</author>
+        <year>2010</year>
+    </book>
+    <book>
+        <title>OTAN Victory</title>
+        <author>Anthony Bush</author>
+        <year>2024</year>
+    </book>
+    <book>
+        <title>Dagbok för alla mina fans</title>
+        <author>Jeff Kinney</author>
+        <year>2020</year>
+    </book>
+</books>
